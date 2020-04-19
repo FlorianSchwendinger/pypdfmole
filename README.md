@@ -12,7 +12,7 @@ in many cases it possible to get better results by refining the results
 with specialized scripts.
 
 ## Examples
-- Basic usage
+- [Basic usage]
 
 ## Installation
 ### Imports (packages needed to use pdfmole)
